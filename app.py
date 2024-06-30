@@ -13,7 +13,6 @@ API_KEY = os.getenv('API_KEY')
 
 # Define the Hugging Face API URL
 API_URL = "https://api-inference.huggingface.co/models/facebook/bart-large-cnn"
-API_URL_TRANSLATION = "https://api-inference.huggingface.co/models/Helsinki-NLP/opus-mt-zh-en"
 
 
 # Set up headers for the API request
